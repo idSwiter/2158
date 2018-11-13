@@ -1,7 +1,7 @@
 {
   "name": "2158",
   "description": "2158",
-  "version": "0.0.0",
+  "version": "11.4.2",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
