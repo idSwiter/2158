@@ -207,4 +207,4 @@ function RND(bottom, top) {
     }
 }
 
-client.login('NDQwOTQyMzM4MDY0NTE1MDgy.Do0JUg.9y3UnPEk62Sbg8liiF7ZUi4y7Fw');
+client.login(process.env.BOT_TOKEN);
