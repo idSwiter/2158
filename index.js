@@ -110,7 +110,7 @@ client.on('message', message => {
                     Wi(message, parram);
                 break;
 
-                case `credit`:
+                case `dbc`:
                   DBC(message, parram, JsonF, D, config);
                 break;
 
